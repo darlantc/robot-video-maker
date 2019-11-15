@@ -1,0 +1,19 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "Open Source project to create automated videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlantc/robot-video-maker.git"
+  },
+  "author": "Darlan Tódero ten Caten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darlantc/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/darlantc/robot-video-maker#readme"
+}
